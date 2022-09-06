@@ -1,0 +1,26 @@
+/* BASIC STYLES HERE */
+*{
+  font-family: 'Press Start 2P', cursive;
+  color: whitesmoke;
+}
+
+body{
+  background-image: url('https://images.unsplash.com/photo-1590930180621-fc7027a21559?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80');
+  background-size: cover;
+}
+
+.boss-card{
+  background-image: url('https://images.unsplash.com/photo-1592859600972-1b0834d83747?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+  background-size: cover;
+  object-fit: cover;
+  min-width: 70vh;
+}
+
+.boss-name{
+  font-size: x-large;
+  text-shadow: 1px 1px black;
+}
+
+.border-whitesmoke{
+  border: .3vw solid whitesmoke;
+}
